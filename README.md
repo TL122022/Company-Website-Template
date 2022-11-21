@@ -1,5 +1,5 @@
 # Company Website Template
-
+## Full Video Tutorial: https://youtu.be/WhseSWiRs0U
 
 Get Full Source Code: https://www.buymeacoffee.com/cstutorials/e/
 
@@ -8,8 +8,9 @@ Join this channel to see more tutorials like this responsive website! [Codingsta
 This Website Template contains:
 <ul>
     <li>A preloader that shows before the page completes loading</li>
-    <li>A navigation bar that is fixed at the top of the screen <br> and can direct to a section of the website</li>
+    <li>A navigation bar that is fixed at the top of the screen <br> and can direct to a section of the website. <br> It will be blurred when user scrolls down.</li>
     <li>Swiper to swipe multiple containers</li>
+    <li>Scroll to top button that only appears when the user scrolls down <br> and will disappear when user goes back to the top</li>
     <li>Subscribe form design</li>
     <li>Dark/Light mode toggle</li>
     <li>Slide in when in view</li>
