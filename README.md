@@ -1,7 +1,7 @@
 # Company Website Template
 ## Full Video Tutorial: https://youtu.be/WhseSWiRs0U
 
-Get Full Source Code: https://www.buymeacoffee.com/cstutorials/e/
+Get Full Source Code: https://www.buymeacoffee.com/cstutorials/e/102506
 
 Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A)
 
@@ -18,3 +18,4 @@ This Website Template contains:
     <li>A website favicon</li>
 <ul>
    <br>
+<img src='website-preview.png'>
